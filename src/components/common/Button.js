@@ -20,6 +20,7 @@ const styles = {
     },
     buttonStyle:{
         flex: 1,
+        minHeight: 40,
         backgroundColor: '#ffff',
         borderRadius: 5,
         borderWidth: 1,
